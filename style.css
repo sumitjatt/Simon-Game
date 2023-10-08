@@ -1,0 +1,51 @@
+body{
+    background-color: rgb(104, 208, 228);
+}
+h1{
+    text-align: center;
+    font-size: 50px;
+}
+.high{
+    font-size: 40px
+}
+.row{
+    display: flex;
+    justify-content: center;
+    gap: 6%;
+}
+.row0{
+    margin-top: -3%;
+}
+.row1{
+    margin-top: 3%;
+}
+.btn{
+    border: 8px black solid;
+    height: 250px;
+    width: 20%;
+    border-radius: 15%;
+}
+
+.red{
+    background-color: rgba(120, 14, 14, 0.753);
+}
+
+.green{
+    background-color: rgba(13, 138, 13, 0.552);
+}
+
+.blue{
+    background-color: rgba(36, 36, 160, 0.726);
+}
+
+.yellow{
+    background-color: yellow;
+}
+
+.right{
+    background-color: green;
+}
+
+.wrong{
+    background-color: red;
+}
